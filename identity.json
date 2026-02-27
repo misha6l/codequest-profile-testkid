@@ -1,0 +1,23 @@
+{
+  "name": "TestKid",
+  "username": "testkid",
+  "theme": "spongebob",
+  "avatar": "🧽",
+  "totalXP": 150,
+  "overallRank": "Code Rookie",
+  "streak": 1,
+  "lastActive": "2026-02-26",
+  "tracks": {
+    "python": {
+      "status": "active",
+      "level": 1,
+      "xp": 150,
+      "currentMission": "python-mission-2",
+      "completedMissions": ["python-mission-1"],
+      "badges": ["🧮 Calculator Kid"]
+    }
+  },
+  "allBadges": ["🧮 Calculator Kid"],
+  "secrets": [],
+  "joinDate": "2026-02-26"
+}
